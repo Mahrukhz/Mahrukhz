@@ -12,7 +12,5 @@
 
 📫 Reach me on **zulfiqarm1@cardiff.ac.uk**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahrukhz&show_icons=true&locale=en&layout=compact" alt="mahrukhz" /></p>
-
 
 
